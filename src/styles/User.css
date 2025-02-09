@@ -1,0 +1,15 @@
+.avatar {
+    width: 400px;
+    border-radius: 90%;
+    padding: 10px;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+}
+
+.userInfo {
+    padding: 50px;
+    margin-top: 20px;
+}

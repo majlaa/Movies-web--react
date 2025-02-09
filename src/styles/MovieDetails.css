@@ -1,0 +1,32 @@
+img, h1, p {
+    margin: 10px;
+}
+
+.details {
+    display: flex;
+}
+
+img {
+    margin-left: 20px;
+    width: 250vh;
+    height: 500px;
+}
+
+.detailsIcons {
+    display: flex;
+    align-items: center; /* Vertically centers the icon and text */
+    justify-items: center;
+    padding: 20px;
+}
+
+i {
+    padding-right: 7px;
+}
+
+p1 {
+    padding-right: 20px;
+}
+
+h1 {
+    font-weight: bold;
+}

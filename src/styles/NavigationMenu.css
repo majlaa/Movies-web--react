@@ -1,0 +1,16 @@
+.logo {
+    border-radius: 50%;
+}
+
+.nav {
+    align-items: center;
+    margin: 10px;
+    padding-right: 0;
+}
+
+.user {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    font-size: 30px;
+}
